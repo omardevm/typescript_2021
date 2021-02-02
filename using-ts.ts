@@ -1,5 +1,5 @@
 const button = document.querySelector("#button");
-const input1 = document.querySelector("#num1");
+const input1 = document.querySelector("#num1")!;
 const input2 = document.querySelector("#num2");
 
 button.addEventListener("click", function () {
