@@ -1,5 +1,7 @@
-function combine(n1: number | string, n2: number | string): number | string {
-  let result: number | string;
+type numstr = number | string;
+
+function combine(n1: numstr, n2: numstr): numstr {
+  let result: numstr;
   if (typeof n1 === "number" && typeof n2 === "number") {
     result = n1 + n2;
   } else {
