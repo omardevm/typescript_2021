@@ -1,4 +1,4 @@
-# Final Project
+# Exercises
 
 ![alt text](https://i.imgur.com/aOxRskY.png)
 
